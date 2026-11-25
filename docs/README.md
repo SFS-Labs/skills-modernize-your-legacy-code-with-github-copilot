@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The Mergington High School accounting system tracks student account balances for fees, cafeteria purchases, and school supplies.
+The Mergington High School accounting system tracks student account balances for fees, cafeteria purchases, and school supplies. It is used by office staff at the start and end of each school day.
 
 ## Files
 
